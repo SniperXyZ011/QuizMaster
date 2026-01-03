@@ -1,0 +1,509 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "In which year was Ayushman Bharat-Pradhan Mantri Jan Arogya Yojana (PM-JAY) launched?",
+      "options": ["2016", "2017", "2018", "2019"],
+      "answer_index": 2
+    },
+    {
+      "id": 2,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "What is the maximum annual health cover provided per family under PM-JAY?",
+      "options": ["₹3 lakh", "₹5 lakh", "₹7 lakh", "₹10 lakh"],
+      "answer_index": 1
+    },
+    {
+      "id": 3,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "How many families are targeted to be covered under PM-JAY?",
+      "options": ["5 crore", "8 crore", "10 crore", "15 crore"],
+      "answer_index": 2
+    },
+    {
+      "id": 4,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "Approximately how many medical and surgical procedures are covered under PM-JAY?",
+      "options": ["Over 500", "Over 1,000", "Over 1,500", "Over 2,000"],
+      "answer_index": 2
+    },
+    {
+      "id": 5,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "What is the family structure covered under PM-JAY?",
+      "options": [
+        "Unlimited family size",
+        "2 adults and 3 children below 18 years",
+        "1 adult and 5 children",
+        "3 adults only"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 6,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "Eligibility for PM-JAY is based on which census?",
+      "options": ["Census 2001", "Census 2011 (SECC)", "Census 2021", "Manual assessment"],
+      "answer_index": 1
+    },
+    {
+      "id": 7,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "Which component of Ayushman Bharat focuses on establishing Health and Wellness Centres?",
+      "options": [
+        "PM-JAY",
+        "Digital Health Initiative",
+        "Preventive Health Component (HWCs)",
+        "Insurance Scheme"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 8,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "PM-JAY provides services through which payment model?",
+      "options": [
+        "Out-of-pocket payments",
+        "Cashless at empaneled hospitals",
+        "Partial reimbursement",
+        "Premium-based coverage"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 9,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "Are pre-existing conditions covered under PM-JAY from day 1?",
+      "options": [
+        "No, only after 30 days",
+        "No, only after 90 days",
+        "Yes, covered from day 1",
+        "No, never covered"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 10,
+      "section": "Ayushman Bharat (PM-JAY)",
+      "question": "Which ministry is responsible for implementing AB-PMJAY?",
+      "options": [
+        "Ministry of Defence",
+        "Ministry of Health and Family Welfare",
+        "Ministry of Finance",
+        "Ministry of Labour"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 11,
+      "section": "NHM & Maternal Health",
+      "question": "Reproductive and Child Health (RCH) Phase I was launched in which year?",
+      "options": ["1995", "1997", "2000", "2005"],
+      "answer_index": 1
+    },
+    {
+      "id": 12,
+      "section": "NHM & Maternal Health",
+      "question": "What does RMNCH+A stand for?",
+      "options": [
+        "Rural Medical and Nursing Care for Health and Assistance",
+        "Reproductive, Maternal, Newborn, Child, and Adolescent Health",
+        "Regional Medical Network for Community Healthcare",
+        "Revised Medical and Nursing Curriculum for Health Administration"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 13,
+      "section": "NHM & Maternal Health",
+      "question": "In which year was RMNCH+A program launched?",
+      "options": ["2011", "2012", "2013", "2014"],
+      "answer_index": 2
+    },
+    {
+      "id": 14,
+      "section": "NHM & Maternal Health",
+      "question": "Janani Suraksha Yojana (JSY) was launched in which year?",
+      "options": ["2003", "2004", "2005", "2006"],
+      "answer_index": 2
+    },
+    {
+      "id": 15,
+      "section": "NHM & Maternal Health",
+      "question": "What is the current Maternal Mortality Ratio (MMR) in India?",
+      "options": [
+        "120 per 100,000 live births",
+        "110 per 100,000 live births",
+        "97 per 100,000 live births",
+        "85 per 100,000 live births"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 16,
+      "section": "NHM & Maternal Health",
+      "question": "What is India's target MMR?",
+      "options": [
+        "Less than 100 per 100,000 live births",
+        "Less than 80 per 100,000 live births",
+        "Less than 70 per 100,000 live births",
+        "Less than 50 per 100,000 live births"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 17,
+      "section": "NHM & Maternal Health",
+      "question": "What is the current Infant Mortality Rate (IMR) in India?",
+      "options": [
+        "32 per 1000 live births",
+        "27 per 1000 live births",
+        "22 per 1000 live births",
+        "18 per 1000 live births"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 18,
+      "section": "NHM & Maternal Health",
+      "question": "What is the primary goal of RMNCH+A programme?",
+      "options": [
+        "To improve survival rates of mothers and children",
+        "To eliminate all diseases",
+        "To provide free education",
+        "To reduce urban population"
+      ],
+      "answer_index": 0
+    },
+    {
+      "id": 19,
+      "section": "NHM & Maternal Health",
+      "question": "Pradhan Mantri Matru Vandana Yojana (PMMVY) was launched in which year?",
+      "options": ["2015", "2016", "2017", "2018"],
+      "answer_index": 2
+    },
+    {
+      "id": 20,
+      "section": "NHM & Maternal Health",
+      "question": "India has achieved what percentage reduction in IMR since 1990?",
+      "options": ["55%", "62%", "69%", "75%"],
+      "answer_index": 2
+    },
+    {
+      "id": 21,
+      "section": "TB & Immunization",
+      "question": "National Tuberculosis Control Programme (NTCP) was launched in which year?",
+      "options": ["1950", "1962", "1975", "1990"],
+      "answer_index": 1
+    },
+    {
+      "id": 22,
+      "section": "TB & Immunization",
+      "question": "What does DOTS stand for in TB treatment?",
+      "options": [
+        "Double Observation Treatment System",
+        "Direct Observant Treatment Short Course",
+        "Dedicated Observation Treatment Service",
+        "Detailed Operation Treatment Schedule"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 23,
+      "section": "TB & Immunization",
+      "question": "What is India's target year for TB elimination?",
+      "options": ["2023", "2024", "2025", "2027"],
+      "answer_index": 2
+    },
+    {
+      "id": 24,
+      "section": "TB & Immunization",
+      "question": "Mission Indradhanush focuses on which aspect of healthcare?",
+      "options": [
+        "Water and sanitation",
+        "Immunization and vaccination",
+        "Mental health",
+        "Nutrition programs"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 25,
+      "section": "TB & Immunization",
+      "question": "Which of the following is NOT covered under Mission Indradhanush immunization program?",
+      "options": ["Polio", "Measles", "Tuberculosis (BCG)", "Diabetes"],
+      "answer_index": 3
+    },
+    {
+      "id": 26,
+      "section": "TB & Immunization",
+      "question": "What does the Universal Immunization Programme (UIP) aim to achieve?",
+      "options": [
+        "Vaccinate children against vaccine-preventable diseases",
+        "Provide free healthcare to all",
+        "Reduce maternal mortality",
+        "Eliminate malaria"
+      ],
+      "answer_index": 0
+    },
+    {
+      "id": 27,
+      "section": "TB & Immunization",
+      "question": "BCG vaccination is provided for protection against which disease?",
+      "options": ["Polio", "Tuberculosis", "Measles", "Hepatitis B"],
+      "answer_index": 1
+    },
+    {
+      "id": 28,
+      "section": "TB & Immunization",
+      "question": "Who is eligible for Mission Indradhanush immunization benefits?",
+      "options": [
+        "Only rural children",
+        "Only girls",
+        "All children across the country",
+        "Only children above 2 years"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 29,
+      "section": "TB & Immunization",
+      "question": "India's MMR reduction since 1990 is:",
+      "options": ["42%", "65%", "83%", "95%"],
+      "answer_index": 2
+    },
+    {
+      "id": 30,
+      "section": "TB & Immunization",
+      "question": "The reduction in Under-5 Mortality Rate since 1990 is:",
+      "options": ["58%", "65%", "75%", "85%"],
+      "answer_index": 2
+    },
+    {
+      "id": 31,
+      "section": "Mental & Digital Health",
+      "question": "In which year was the Mental Health Care Act passed in India?",
+      "options": ["2015", "2016", "2017", "2018"],
+      "answer_index": 2
+    },
+    {
+      "id": 32,
+      "section": "Mental & Digital Health",
+      "question": "KIRAN helpline under mental health initiatives focuses on:",
+      "options": [
+        "Vaccination awareness",
+        "Suicide prevention and mental health support",
+        "Nutrition guidance",
+        "Traffic management"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 33,
+      "section": "Mental & Digital Health",
+      "question": "What is Tele-MANAS?",
+      "options": [
+        "Mental health awareness campaign",
+        "Telemedicine platform for mental health services",
+        "Mental health training program",
+        "Mental hospital registration system"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 34,
+      "section": "Mental & Digital Health",
+      "question": "Ayushman Bharat Digital Mission (ABDM) was launched in which year?",
+      "options": ["2019", "2020", "2021", "2022"],
+      "answer_index": 2
+    },
+    {
+      "id": 35,
+      "section": "Mental & Digital Health",
+      "question": "What is UHID in the context of ABDM?",
+      "options": [
+        "Universal Health Insurance Database",
+        "Unique Health Identifier",
+        "Updated Hospital Information Directory",
+        "Unified Health Inspection Division"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 36,
+      "section": "Mental & Digital Health",
+      "question": "ABDM aims to create which kind of health ecosystem?",
+      "options": [
+        "Physical-only healthcare",
+        "Digital health ecosystem with interoperable frameworks",
+        "Centralized government-only system",
+        "Private healthcare only"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 37,
+      "section": "Mental & Digital Health",
+      "question": "What does EHR stand for in the context of ABDM?",
+      "options": [
+        "Electronic Hospital Records",
+        "Emergency Health Response",
+        "Electronic Health Records",
+        "Enhanced Health Registry"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 38,
+      "section": "Mental & Digital Health",
+      "question": "Which of the following is a building block of ABDM?",
+      "options": [
+        "Patient registry",
+        "Health provider registry",
+        "Health facility registry",
+        "All of the above"
+      ],
+      "answer_index": 3
+    },
+    {
+      "id": 39,
+      "section": "Mental & Digital Health",
+      "question": "National Digital Health Blueprint emphasizes which principle?",
+      "options": [
+        "Centralized control only",
+        "Security and Privacy by Design",
+        "Government monopoly",
+        "Data sharing without consent"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 40,
+      "section": "Mental & Digital Health",
+      "question": "ABDM provides access to health services through which channels?",
+      "options": [
+        "Call centers only",
+        "Digital portal only",
+        "Call centers, Digital portal, and MyHealth App",
+        "Direct hospital visits only"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 41,
+      "section": "Government Programs",
+      "question": "Jal Jeevan Mission aims to provide:",
+      "options": [
+        "Subsidized food to rural areas",
+        "Free electricity to villages",
+        "Piped drinking water to every household",
+        "Agricultural loans"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 42,
+      "section": "Government Programs",
+      "question": "Poshan Maah focuses on which health aspect?",
+      "options": [
+        "Vaccination",
+        "Nutrition programs and malnutrition reduction",
+        "Mental health",
+        "Disease surveillance"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 43,
+      "section": "Government Programs",
+      "question": "Swachh Bharat Abhiyan concentrates on:",
+      "options": [
+        "Healthcare delivery",
+        "Sanitation and hygiene",
+        "Educational reforms",
+        "Economic development"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 44,
+      "section": "Government Programs",
+      "question": "Which organization is responsible for implementing Ayushman Bharat at the national level?",
+      "options": [
+        "NITI Aayog only",
+        "National Health Authority (NHA)",
+        "Ministry of Finance",
+        "State Governments only"
+      ],
+      "answer_index": 1
+    },
+    {
+      "id": 45,
+      "section": "Government Programs",
+      "question": "LaQshya program focuses on:",
+      "options": [
+        "Quality improvement in maternity care",
+        "TB elimination",
+        "Immunization drive",
+        "Mental health awareness"
+      ],
+      "answer_index": 0
+    },
+    {
+      "id": 46,
+      "section": "Government Programs",
+      "question": "SUMAN (Surakshit Matritva Aashwasan) program was launched in:",
+      "options": ["2017", "2018", "2019", "2020"],
+      "answer_index": 2
+    },
+    {
+      "id": 47,
+      "section": "Government Programs",
+      "question": "National Sports Policy 2025 emphasizes health through:",
+      "options": [
+        "Sports participation and fitness",
+        "Hospital construction",
+        "Drug distribution",
+        "Disease surveillance"
+      ],
+      "answer_index": 0
+    },
+    {
+      "id": 48,
+      "section": "Government Programs",
+      "question": "Which index tracks the performance of Indian states in health sector?",
+      "options": [
+        "State Health Index",
+        "District Hospital Index",
+        "National Performance Index",
+        "Wellness Index"
+      ],
+      "answer_index": 0
+    },
+    {
+      "id": 49,
+      "section": "Government Programs",
+      "question": "The theme of NationBuilding Case Study Competition 2026 is:",
+      "options": [
+        "Education Reforms (Viksit Bharat)",
+        "Sports and Olympics",
+        "Preventive Healthcare - Next Generation and Healthier Choices",
+        "Environmental Sustainability"
+      ],
+      "answer_index": 2
+    },
+    {
+      "id": 50,
+      "section": "Government Programs",
+      "question": "Fit India Movement primarily focuses on:",
+      "options": [
+        "Hospital infrastructure",
+        "Physical fitness and wellness across the nation",
+        "Disease treatment",
+        "Insurance schemes"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
