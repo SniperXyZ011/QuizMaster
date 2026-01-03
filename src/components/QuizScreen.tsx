@@ -45,9 +45,7 @@ export function QuizScreen({
   }, [timeLeft, selectedOption]);
 
   const handleSelect = (index: number) => {
-    if (selectedOption === null) {
-      setSelectedOption(index);
-    }
+    setSelectedOption(index);
   };
 
   const handleConfirm = () => {
