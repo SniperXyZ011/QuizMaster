@@ -6,7 +6,7 @@ interface StartScreenProps {
   totalAvailable: number;
 }
 
-const QUESTION_OPTIONS = [20, 30, 40, 50];
+const QUESTION_OPTIONS = [20, 30, 40, 50, 70, 100];
 
 export function StartScreen({ onStart, totalAvailable }: StartScreenProps) {
   const [selectedCount, setSelectedCount] = useState<number>(20);
